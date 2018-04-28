@@ -23,10 +23,12 @@ More Info:
 - [reflect-metadata](https://www.npmjs.com/package/reflect-metadata) - From TypeORM
 - [typeorm](https://www.npmjs.com/package/typeorm)
 - [uuid](https://www.npmjs.com/package/uuid) - For Generating id
+- [bcrypt.js](https://www.npmjs.com/package/bcryptjs)
 
 ## Dev-Dependencies: 
 - [@types/node ](https://www.npmjs.com/package/@types/node)
 - [@types/uuid](https://www.npmjs.com/package/@types/uuid)
+- [@types/bcryptjs](https://www.npmjs.com/package/@types/bcryptjs)
 - [gql2ts](https://www.npmjs.com/package/gql2ts)
 - [nodemon](https://www.npmjs.com/package/nodemon)
 - [ts-node](https://www.npmjs.com/package/ts-node)
