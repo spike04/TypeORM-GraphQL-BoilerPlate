@@ -18,6 +18,7 @@ More Info:
 
 ## Dependencies: 
 - [graphql-import](https://www.npmjs.com/package/graphql-import) - Separating TypeDefs
+- [graphql-request](https://www.npmjs.com/package/graphql-request) - Sending GraphQL request During Testing
 - [graphql-yoga](https://www.npmjs.com/package/graphql-yoga) - Graphql Server
 - [pg](https://www.npmjs.com/package/pg)
 - [reflect-metadata](https://www.npmjs.com/package/reflect-metadata) - From TypeORM
@@ -35,6 +36,9 @@ More Info:
 - [tslint](https://www.npmjs.com/package/tslint)
 - [tslint-config-prettier](https://www.npmjs.com/package/tslint-config-prettier)
 - [typescript](https://www.npmjs.com/package/typescript)
+- [jest](https://www.npmjs.com/package/jest) - ts-jest not working for me
+- [ts-jest](https://www.npmjs.com/package/ts-jest) - For Testing
+- [@types/jest](https://www.npmjs.com/package/@types/jest) - For ts-jest
 
 ## To Run the Project
 - Clone the Project.
