@@ -39,6 +39,7 @@ More Info:
 - [jest](https://www.npmjs.com/package/jest) - ts-jest not working for me
 - [ts-jest](https://www.npmjs.com/package/ts-jest) - For Testing
 - [@types/jest](https://www.npmjs.com/package/@types/jest) - For ts-jest
+- ~~[start-server-and-test](https://www.npmjs.com/package/start-server-and-test) - For Starting Server and running test~~ - Found Better Solution
 
 ## To Run the Project
 - Clone the Project.
