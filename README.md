@@ -27,12 +27,14 @@ More Info:
 - [bcrypt.js](https://www.npmjs.com/package/bcryptjs)
 - [graphql-tools](https://www.npmjs.com/package/graphql-tools) - for Combining all the typeDefs and resolvers
 - [yup](https://www.npmjs.com/package/yup) - For Input Validation
+- [ioredis](https://www.npmjs.com/package/ioredis) - For Redis Client
 
 ## Dev-Dependencies: 
 - [@types/node ](https://www.npmjs.com/package/@types/node)
 - [@types/uuid](https://www.npmjs.com/package/@types/uuid)
 - [@types/bcryptjs](https://www.npmjs.com/package/@types/bcryptjs)
 - [@types/yup](https://www.npmjs.com/package/@types/yup)
+- [@types/ioredis](https://www.npmjs.com/package/@types/ioredis)
 - [gql2ts](https://www.npmjs.com/package/gql2ts)
 - [nodemon](https://www.npmjs.com/package/nodemon)
 - [ts-node](https://www.npmjs.com/package/ts-node)
