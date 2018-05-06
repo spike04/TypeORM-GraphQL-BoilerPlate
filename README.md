@@ -25,6 +25,7 @@ More Info:
 - [typeorm](https://www.npmjs.com/package/typeorm)
 - [uuid](https://www.npmjs.com/package/uuid) - For Generating id
 - [bcrypt.js](https://www.npmjs.com/package/bcryptjs)
+- [graphql-tools](https://www.npmjs.com/package/graphql-tools) - for Combining all the typeDefs and resolvers
 
 ## Dev-Dependencies: 
 - [@types/node ](https://www.npmjs.com/package/@types/node)
