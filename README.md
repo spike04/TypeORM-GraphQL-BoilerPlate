@@ -28,6 +28,7 @@ More Info:
 - [graphql-tools](https://www.npmjs.com/package/graphql-tools) - for Combining all the typeDefs and resolvers
 - [yup](https://www.npmjs.com/package/yup) - For Input Validation
 - [ioredis](https://www.npmjs.com/package/ioredis) - For Redis Client
+- [node-fetch](https://www.npmjs.com/package/node-fetch) - For Performing Request / Can use others like Axios ...
 
 ## Dev-Dependencies: 
 - [@types/node ](https://www.npmjs.com/package/@types/node)
@@ -35,6 +36,7 @@ More Info:
 - [@types/bcryptjs](https://www.npmjs.com/package/@types/bcryptjs)
 - [@types/yup](https://www.npmjs.com/package/@types/yup)
 - [@types/ioredis](https://www.npmjs.com/package/@types/ioredis)
+- [@types/node-fetch](https://www.npmjs.com/package/@types/node-fetch)
 - [gql2ts](https://www.npmjs.com/package/gql2ts)
 - [nodemon](https://www.npmjs.com/package/nodemon)
 - [ts-node](https://www.npmjs.com/package/ts-node)
